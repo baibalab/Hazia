@@ -3,6 +3,7 @@ BaibaLab Hazia
 
 WebApp-ak sortzeko hazia. [angular-seed](https://github.com/angular/angular-seed) proiektuan oinarritua.
 
+DEMO: [http://demo.baibalab.net/Hazia](http://demo.baibalab.net/Hazia)
 
 AngularJS + Twitter Bootstrap
 -----------------------------
