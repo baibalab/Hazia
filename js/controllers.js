@@ -2,14 +2,10 @@
 
 /* Controllers */
 
-function AppCtrl($scope, $http) {
-	
-}
+angular.module('myApp.controllers', []).
+  controller('MyCtrl1', [function() {
 
-function MyCtrl1($scope) {
-	$scope.welcome = "Welcome";
-}
+  }])
+  .controller('MyCtrl2', [function() {
 
-
-function MyCtrl2() {
-}
+  }]);
